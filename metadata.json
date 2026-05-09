@@ -1,0 +1,8 @@
+{
+  "name": "Net Speed Monitor",
+  "description": "Shows live download and upload speed in the GNOME top bar, next to the battery icon.",
+  "uuid": "netspeed@fedora",
+  "version": 1,
+  "shell-version": ["42", "43", "44", "45", "46", "47", "48", "49"],
+  "url": ""
+}
